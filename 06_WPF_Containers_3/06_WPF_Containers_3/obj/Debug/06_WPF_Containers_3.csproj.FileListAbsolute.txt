@@ -1,0 +1,15 @@
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\02\3\06_WPF_Containers_3\06_WPF_Containers_3\06_WPF_Containers_3\bin\Debug\06_WPF_Containers_3.exe.config
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\02\3\06_WPF_Containers_3\06_WPF_Containers_3\06_WPF_Containers_3\bin\Debug\06_WPF_Containers_3.exe
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\02\3\06_WPF_Containers_3\06_WPF_Containers_3\06_WPF_Containers_3\bin\Debug\06_WPF_Containers_3.pdb
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\02\3\06_WPF_Containers_3\06_WPF_Containers_3\06_WPF_Containers_3\obj\Debug\06_WPF_Containers_3.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\02\3\06_WPF_Containers_3\06_WPF_Containers_3\06_WPF_Containers_3\obj\Debug\MainWindow.g.cs
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\02\3\06_WPF_Containers_3\06_WPF_Containers_3\06_WPF_Containers_3\obj\Debug\App.g.cs
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\02\3\06_WPF_Containers_3\06_WPF_Containers_3\06_WPF_Containers_3\obj\Debug\06_WPF_Containers_3_MarkupCompile.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\02\3\06_WPF_Containers_3\06_WPF_Containers_3\06_WPF_Containers_3\obj\Debug\06_WPF_Containers_3_MarkupCompile.lref
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\02\3\06_WPF_Containers_3\06_WPF_Containers_3\06_WPF_Containers_3\obj\Debug\MainWindow.baml
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\02\3\06_WPF_Containers_3\06_WPF_Containers_3\06_WPF_Containers_3\obj\Debug\06_WPF_Containers_3.g.resources
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\02\3\06_WPF_Containers_3\06_WPF_Containers_3\06_WPF_Containers_3\obj\Debug\_06_WPF_Containers_3.Properties.Resources.resources
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\02\3\06_WPF_Containers_3\06_WPF_Containers_3\06_WPF_Containers_3\obj\Debug\06_WPF_Containers_3.csproj.GenerateResource.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\02\3\06_WPF_Containers_3\06_WPF_Containers_3\06_WPF_Containers_3\obj\Debug\06_WPF_Containers_3.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\02\3\06_WPF_Containers_3\06_WPF_Containers_3\06_WPF_Containers_3\obj\Debug\06_WPF_Containers_3.exe
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\02\3\06_WPF_Containers_3\06_WPF_Containers_3\06_WPF_Containers_3\obj\Debug\06_WPF_Containers_3.pdb
